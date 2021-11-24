@@ -1,6 +1,6 @@
 <?php
 
-namespace Iz\Router;
+namespace Izyanza\Router;
 
 class Router
 {

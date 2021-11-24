@@ -1,9 +1,9 @@
 {
-    "name": "iz/router",
+    "name": "izyanza/router",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Iz\\Router\\": "src/"
+            "Izyanza\\Router\\": "src/"
         }
     },
     "authors": [

@@ -1,0 +1,17 @@
+{
+    "name": "iz/router",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Iz\\Router\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "IzyanzZ",
+            "email": "izyanzytbusiness@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
